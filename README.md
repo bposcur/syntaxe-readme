@@ -6,6 +6,8 @@ Texte normal
 *Italique*
 `Commande ou mot-clé`
 
+<ins>Texte souligné<ins>
+
 - Premier point
 - Deuxième point
 - Troisième point
